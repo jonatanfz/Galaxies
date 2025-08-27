@@ -19,7 +19,7 @@ Projeto criado com base nos conceitos de CSS Grid:
 - Grid-template
 
 
-- [Acesse o projeto finalizado, online](https://jonatanfiuza.github.io/Galaxies)
+- [Acesse o projeto finalizado, online](https://jonatanfz.github.io/Galaxies/)
 
 
 
